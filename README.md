@@ -107,7 +107,7 @@ data/
 
 ## Running on Custom Datasets
 
-We supports training on custom datasets from two sources: COLMAP reconstructions and satellite imagery. For detailed preprocessing instructions, please refer to the [SatelliteSfM repository](https://github.com/jayin92/SatelliteSfM).
+We support training on custom datasets from two sources: COLMAP reconstructions and satellite imagery. For detailed preprocessing instructions, please refer to the [SatelliteSfM repository](https://github.com/jayin92/SatelliteSfM).
 
 ### Data Format Requirements
 
